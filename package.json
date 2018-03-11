@@ -10,7 +10,7 @@
     "test": "simpleunit test"
   }
 , "dependencies": {
-	"simpleremote": "0.0.5"
+	"simpleremote": "https://github.com/sguiheux/SimpleRemote/tarball/tmp"
   }
 , "devDependencies": {
     "simpleunit": "0.0.6"
